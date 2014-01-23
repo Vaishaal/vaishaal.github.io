@@ -23,18 +23,18 @@ Sections
 
 Section Worksheets
 ------------------
-| Week  | Topic      | Link
+| Week  | Topic      | Worksheet | Slides
 | ------------- |:-------------:|
-| Week 1   | Coming Soon    | Coming Soon    | 
-| Week 2  | Coming Soon     | Coming Soon     | 
-| Week 3  | Coming Soon     | Coming Soon     | 
-| Week 4 | Coming Soon     | Coming Soon     | 
-| Week 5   | Coming Soon    | Coming Soon    | 
-| Week 6  | Coming Soon     | Coming Soon     | 
-| Week 7  | Coming Soon     | Coming Soon     | 
-| Week 8 | Coming Soon     | Coming Soon     | 
-| Week 9  | Coming Soon     | Coming Soon     | 
-| Week 10 | Coming Soon     | Coming Soon     | 
+| Week 1   | Introduction   | N/A   | [pdf](http://inst.eecs.berkeley.edu/~cs162-td/content/slides/week1.pdf)
+| Week 2  | Coming Soon     | Coming Soon     | Coming Soon
+| Week 3  | Coming Soon     | Coming Soon     | Coming Soon
+| Week 4 | Coming Soon     | Coming Soon     | Coming Soon
+| Week 5   | Coming Soon    | Coming Soon    | Coming Soon
+| Week 6  | Coming Soon     | Coming Soon     | Coming Soon
+| Week 7  | Coming Soon     | Coming Soon     | Coming Soon
+| Week 8 | Coming Soon     | Coming Soon     | Coming Soon
+| Week 9  | Coming Soon     | Coming Soon     | Coming Soon
+| Week 10 | Coming Soon     | Coming Soon     | Coming Soon
 
 
 

@@ -1,53 +1,16 @@
 
-
-CS162: Operating Systems & Systems Programming
+Vaishaal Shankar
 ========
 
-Welcome to CS162! I'll use the site to post slides & content from discussion. Kind of barebones now, I'll add more content later.
-
-I'm Vaishaal Shankar, this is what I look like:  
 ![image](http://s17.postimg.org/rxv2qg1v3/image.jpg)
 
-Important Info
----------
-**Email**: cs162-td@imail.eecs.berkeley.edu  
-**OH**: M 12-1 611 Soda *and* Tu 4-5 751 Soda 
+I'm a fourth year undergrad at UC Berkeley. I currently do research with Professor Anthony Joseph in secure machine Learning and Professor Avideh Zakhor in scaleable image localization.
 
-If you can't make my OH just email me and we can set up something.
+I am also head TA for [CS162](http://cs162.eecs.berkeley.edu/) the operating systems course.
 
-Sections
----------
-| Section Time  | Room        | 
-| ------------- |:-------------:|
-| Th 5:00 pm    | 81 Evans     | 
-| Th 6:00 pm    | 405 Soda     | 
-
-
-Section Worksheets
-------------------
-| Week  | Topic      | Worksheet | Slides
-| ------------- |:-------------:|
-| Week 1   | Introduction   | N/A   | [link](https://docs.google.com/presentation/d/1HSf3xFUy7RFZhme0VSMiI043GrwWq0Srbcf-003A_RA/pub?start=false&loop=false&delayms=3000)
-| Week 2  | Nachos & Threads | [Q](http://inst.eecs.berkeley.edu/~cs162/sp14/sections/Worksheet-1.pdf)   [A](http://inst.eecs.berkeley.edu/~cs162/sp14/sections/Worksheet-1-Answers.pdf)| [link](http://inst.eecs.berkeley.edu/~cs162/sp14/sections/Section-1.pptx)
-| Week 3  | Locks, Semaphores & Monitors    |  [Q](http://inst.eecs.berkeley.edu/~cs162/sp14/sections/Worksheet-2.pdf)   [A](http://inst.eecs.berkeley.edu/~cs162/sp14/sections/Worksheet-2-Answers.pdf)    | [link](https://docs.google.com/presentation/d/1wOPzhH-xC7Lxn40vIm99WQ0ciwP03-ah4v8h2XvzWWE/pub?start=false&loop=false&delayms=3000)
-| Week 4 | Coming Soon     | Coming Soon     | Coming Soon
-| Week 5   | Coming Soon    | Coming Soon    | Coming Soon
-| Week 6  | Coming Soon     | Coming Soon     | Coming Soon
-| Week 7  | Coming Soon     | Coming Soon     | Coming Soon
-| Week 8 | Coming Soon     | Coming Soon     | Coming Soon
-| Week 9  | Coming Soon     | Coming Soon     | Coming Soon
-| Week 10 | Coming Soon     | Coming Soon     | Coming Soon
-
-
-
-Design Review Signup
---------------------
-| Project  | Link       | 
-| ------------- |:-------------:|
-| Threads   | [link](http://doodle.com/en5rw5sht9gxxcb3)    | 
-| Multiprogramming   | Coming Soon     | 
-| Single Node KV Store   | Coming Soon     | 
-| Multiple Node KV Store  | Coming Soon     | 
+You can contact me at vaishaal at berkeley dot edu  
+I've worked on a few projects which you can find [here](http://github.com/vaishaal).  
+My cv is [here](/cv.pdf)
 
 
 Other Useful Stuff

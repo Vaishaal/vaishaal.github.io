@@ -1,3 +1,6 @@
+<head>
+<title>Vaishaal Shankar</title>
+</head>
 
 Vaishaal Shankar
 ========

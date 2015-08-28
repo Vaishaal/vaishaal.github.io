@@ -1,12 +1,6 @@
-<!doctype html>
-<html>
-<head>
-<meta charset="utf-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
-<style>
 body {
-  font-family: Helvetica, arial, sans-serif;
-  font-size: 14px;
+  font-size: 11px;
+  font-family: 'DejaVu Sans Mono', 'Consolas', monospace;
   line-height: 1.6;
   padding-top: 10px;
   padding-bottom: 10px;
@@ -35,7 +29,8 @@ a.anchor {
 h1, h2, h3, h4, h5, h6 {
   margin: 20px 0 10px;
   padding: 0;
-  font-weight: bold;
+  font-family: 'DejaVu Sans Mono', 'Consolas', monospace;
+  line-height: 1.6;
   -webkit-font-smoothing: antialiased;
   cursor: text;
   position: relative; }
@@ -301,45 +296,3 @@ sup {
 		word-wrap: break-word;
 	}
 }
-</style>
-<title>
-Vaishaal Shankar
-========
-
-![image](http://s17.postimg.org/rxv2qg1v3/image.jpg)
-
-I'm a fourth year undergrad</title>
-
-</head>
-<body>
-<h1>Vaishaal Shankar</h1>
-
-<p><img src="http://s17.postimg.org/rxv2qg1v3/image.jpg" alt="image" /></p>
-
-<p>I'm a fourth year undergrad at UC Berkeley. I currently do research with Professor Anthony Joseph in secure machine Learning and Professor Avideh Zakhor in scaleable image localization.</p>
-
-<p>I am also head TA for <a href="http://cs162.eecs.berkeley.edu/">CS162</a> the operating systems course.</p>
-
-<p>You can contact me at vaishaal at berkeley dot edu<br/>
-I've worked on a few projects which you can find <a href="http://github.com/vaishaal">here</a>.<br/>
-My cv is <a href="/cv.pdf">here</a></p>
-
-<h2>Other Useful Stuff</h2>
-
-<p><a href="https://docs.google.com/presentation/d/1FOOA4Tn9evpPHas0z-o2AM6wrUI_bXXcnepYnQ9TrZ4/pub?start=false&amp;loop=false&amp;delayms=3000">Git for advanced beginners</a></p>
-
-<script>
-  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
-
-  ga('create', 'UA-47546603-1', 'berkeley.edu');
-  ga('send', 'pageview');
-
-</script>
-
-
-
-</body>
-</html>

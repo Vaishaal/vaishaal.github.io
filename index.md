@@ -1,5 +1,8 @@
 <head>
 <title>Vaishaal Shankar</title>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
+<link rel="stylesheet" type="text/css" href="mou.css">
 </head>
 
 Vaishaal Shankar
@@ -7,13 +10,14 @@ Vaishaal Shankar
 
 ![image](http://s17.postimg.org/rxv2qg1v3/image.jpg)
 
-I'm a fourth year undergrad at UC Berkeley. I currently do research with Professor Anthony Joseph in secure machine Learning and Professor Avideh Zakhor in scaleable image localization.
 
-I am also head TA for [CS162](http://cs162.eecs.berkeley.edu/) the operating systems course.
-
-You can contact me at vaishaal at berkeley dot edu  
+I am a <span id="years" ></span> year graduate student working in the Amp Lab.  
+My research interests lie in the intersection of machine learning and distributed systems.  
+You can contact me at vaishaal at eecs dot berkeley dot edu    
 I've worked on a few projects which you can find [here](http://github.com/vaishaal).  
 My cv is [here](/cv.pdf)
+
+This page is currently under (perpetual) construction
 
 
 Other Useful Stuff
@@ -31,5 +35,18 @@ Other Useful Stuff
   ga('create', 'UA-47546603-1', 'berkeley.edu');
   ga('send', 'pageview');
 
+</script>
+<script>
+var d = new Date();
+var n = d.getFullYear();
+var k = n - 2015 + 1
+var endings = ["st","nd", "rd","th"]
+
+if (k <= 3) {
+	var year = k + endings[k-1]
+} else {
+	var year = k + endings[3]
+}
+document.getElementById("years").innerHTML = year
 </script>
 

@@ -11,7 +11,7 @@ Vaishaal Shankar
 ![image](http://s17.postimg.org/rxv2qg1v3/image.jpg)
 
 
-I am a <span id="years" ></span> year graduate student working in the Amp Lab.  
+I am a <span id="years" ></span> year graduate student working with Ben Recht.
 My research interests lie in the intersection of machine learning and distributed systems.  
 You can contact me at vaishaal at eecs dot berkeley dot edu    
 I've worked on a few projects which you can find [here](http://github.com/vaishaal).  

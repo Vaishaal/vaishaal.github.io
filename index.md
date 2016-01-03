@@ -39,6 +39,11 @@ Other Useful Stuff
 <script>
 var d = new Date();
 var n = d.getFullYear();
+var m = d.getMonth();
+if (m < 8) {
+  n = n - 1
+}
+
 var k = n - 2015 + 1
 var endings = ["st","nd", "rd","th"]
 

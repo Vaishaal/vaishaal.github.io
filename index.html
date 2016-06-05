@@ -13,16 +13,38 @@
 
 <p><img src="http://s17.postimg.org/rxv2qg1v3/image.jpg" alt="image" title="" /></p>
 
-<p>I am a <span id="years" ></span> year graduate student working with Ben Recht. </p>
+<p>I am a <span id="years" ></span> year graduate student working with Ben Recht.</p>
 
-<p>My research interests lie in the intersection of machine learning and distributed systems. <br />
-You can contact me at vaishaal at eecs dot berkeley dot edu    </p>
+<p>My research interests lie in the intersection of machine learning and distributed systems.
+More specifically I am interested in the design, analysis and implementation of <em>practical</em> machine learning algorithms
+suitable for massive datasets.</p>
+
+<p>You can contact me at vaishaal at eecs dot berkeley dot edu    </p>
 
 <p>This page is currently under (perpetual) construction</p>
+
+<h2>Publications</h2>
+
+<p>Shankar, V., Zhang, J., Chen, J., Dinh, C., Clements, M., &amp; Zakhor, A. (2016, February). Approximate Subgraph Isomorphism for Image Localization. <em>International Symposium on Electronic Imaging</em></p>
+
+<p>Shankar, V., &amp; Culler, D. (2015, March). A Modern Student Experience in Systems Programming. In Proceedings of the Second (2015) ACM Conference on Learning@ Scale (pp. 233-236). ACM.</p>
+
+<p>Kantchelian, A., Tschantz, M. C., Afroz, S., Miller, B., Shankar, V., Bachwani, V., Bachwani, R., Joseph, A.D. &amp; Tygar, J. D. (2015, October). Better malware ground truth: Techniques for weighting anti-virus vendor labels. <em>In Proceedings of the Eigth ACM Workshop on Artificial Intelligence and Security (pp. 45-56). ACM.</em></p>
+
+<p>Miller, B., Kantchelian, A., Tschantz, M.C., Afroz, S., Bahwani, R., Faizullabhoy, R., Huang, L., Shankar, V., Wu, T., Yiu, G., Joseph, A.D.  &amp; Tygar, J. D (2016 July).  Reviewer Integration and Performance Measurement for Malware Detection. <em>13th Conference on Detection of Intrusions and Malware &amp; Vulnerability Assessment</em></p>
+
+<h2>Tech Reports</h2>
+
+<p>Iliopoulos, F., Moulous, V., Shankar, V., &amp; Simchowitz, M. <a href="http://people.eecs.berkeley.edu/~msimchow/GradientsForLoss.pdf">Gradients for the Loss!.</a></p>
 
 <h2>Other Useful Stuff</h2>
 
 <p><a href="https://docs.google.com/presentation/d/1FOOA4Tn9evpPHas0z-o2AM6wrUI_bXXcnepYnQ9TrZ4/pub?start=false&amp;loop=false&amp;delayms=3000">Git for advanced beginners</a></p>
+
+<h2>One the side</h2>
+
+<p>I am an officer in the <a href="http://crc.berkeley.edu">Cal Running Club</a>, a low stress social running club that meets at Kroeber 5:30 pm every week day (during the
+school year). Come say hi!</p>
 
 <script>
   (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
@@ -38,13 +60,18 @@ You can contact me at vaishaal at eecs dot berkeley dot edu    </p>
 <script>
 var d = new Date();
 var n = d.getFullYear();
+var m = d.getMonth();
+if (m < 8) {
+    n = n - 1
+}
+
 var k = n - 2015 + 1
 var endings = ["st","nd", "rd","th"]
 
 if (k <= 3) {
-    var year = k + endings[k-1]
+      var year = k + endings[k-1]
 } else {
-    var year = k + endings[3]
+      var year = k + endings[3]
 }
 document.getElementById("years").innerHTML = year
 </script>

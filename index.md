@@ -57,7 +57,7 @@ Other Useful Stuff
 [Git for advanced beginners](https://docs.google.com/presentation/d/1FOOA4Tn9evpPHas0z-o2AM6wrUI_bXXcnepYnQ9TrZ4/pub?start=false&loop=false&delayms=3000)
 
 
-One the side
+On the side
 -------------
 I am an officer in the [Cal Running Club](http://crc.berkeley.edu), a low stress social running club that meets at Kroeber 5:30 pm every week day (during the
 school year). Come say hi!

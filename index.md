@@ -54,7 +54,12 @@ Iliopoulos, F., Moulous, V., Shankar, V., & Simchowitz, M. [Gradients for the Lo
 
 Other Useful Stuff
 ------------------
-[Git for advanced beginners](https://docs.google.com/presentation/d/1FOOA4Tn9evpPHas0z-o2AM6wrUI_bXXcnepYnQ9TrZ4/pub?start=false&loop=false&delayms=3000)
+[Git for advanced beginners](https://docs.google.com/presentation/d/1FOOA4Tn9evpPHas0z-o2AM6wrUI_bXXcnepYnQ9TrZ4/pub?start=false&loop=false&delayms=3000)  - Git slide deck I made a couple years ago  
+
+[Tutorials](http://www.achaldave.com/tutorials/)  - A list of tutorials on various mathy things curated by my good friend [Achal Dave](http://www.achaldave.com)  
+
+[Is Thirteen?](https://github.com/jezen/is-thirteen)  - I have nothing to do with this but very useful tool.  
+
 
 
 On the side

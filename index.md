@@ -9,6 +9,7 @@ Vaishaal Shankar
 ========
 [cv](/cv.pdf)
 [blog](/blog)
+[cs189](/cs189.html)
 [github](http://github.com/vaishaal)
 
 ![image](http://s17.postimg.org/rxv2qg1v3/image.jpg)
@@ -36,14 +37,16 @@ This page is currently under (perpetual) construction
 
 Publications
 -------------
+Morrow, A., Shankar, V, Petersohn, D., Yosef, N., Recht, B., Joseph, A.D (2016, December). Convolutional Kitchen Sinks for Transcription Factor Binding Site Prediction. NIPS Workshop on Machine Learning in Computational Biology [pdf](/genomics_kitchensinks.pdf)
+
 Shankar, V., Zhang, J., Chen, J., Dinh, C., Clements, M., & Zakhor, A. (2016, February). Approximate Subgraph Isomorphism for Image Localization. *International Symposium on Electronic Imaging*
 
 Shankar, V., & Culler, D. (2015, March). A Modern Student Experience in Systems Programming. In Proceedings of the Second (2015) ACM Conference on Learning@ Scale (pp. 233-236). ACM.
 
-Kantchelian, A., Tschantz, M. C., Afroz, S., Miller, B., Shankar, V., Bachwani, V., Bachwani, R., Joseph, A.D. & Tygar, J. D. (2015, October). Better malware ground truth: Techniques for weighting anti-virus vendor labels. *In Proceedings of the Eigth ACM Workshop on Artificial Intelligence and Security (pp. 45-56). ACM.*
+Kantchelian, A., Tschantz, M. C., Afroz, S., Miller, B., Shankar, V., Bachwani, V., Bachwani, R., Joseph, A.D. & Tygar, J. D. (2015, October). Better malware ground truth: Techniques for weighting anti-virus vendor labels. In Proceedings of the Eigth ACM Workshop on Artificial Intelligence and Security (pp. 45-56). ACM.
 
 
-Miller, B., Kantchelian, A., Tschantz, M.C., Afroz, S., Bahwani, R., Faizullabhoy, R., Huang, L., Shankar, V., Wu, T., Yiu, G., Joseph, A.D.  & Tygar, J. D (2016 July).  Reviewer Integration and Performance Measurement for Malware Detection. *13th Conference on Detection of Intrusions and Malware & Vulnerability Assessment*
+Miller, B., Kantchelian, A., Tschantz, M.C., Afroz, S., Bahwani, R., Faizullabhoy, R., Huang, L., Shankar, V., Wu, T., Yiu, G., Joseph, A.D.  & Tygar, J. D (2016 July).  Reviewer Integration and Performance Measurement for Malware Detection. 13th Conference on Detection of Intrusions and Malware & Vulnerability Assessment
 
 Tech Reports
 -------------
@@ -54,7 +57,7 @@ Iliopoulos, F., Moulous, V., Shankar, V., & Simchowitz, M. [Gradients for the Lo
 
 Other Useful Stuff
 ------------------
-[Git for advanced beginners](https://docs.google.com/presentation/d/1FOOA4Tn9evpPHas0z-o2AM6wrUI_bXXcnepYnQ9TrZ4/pub?start=false&loop=false&delayms=3000)  - Git slide deck I made a couple years ago  
+[Git for advanced beginners](https://docs.google.com/presentation/d/1FOOA4Tn9evpPHas0z-o2AM6wrUI_bXXcnepYnQ9TrZ4/pub?start=false&loop=false&delayms=3000)  - Git slide deck I made a couple years ago
 
 [Tutorials](http://www.achaldave.com/tutorials/)  - A list of tutorials on various mathy things curated by my good friend [Achal Dave](http://www.achaldave.com)  
 

@@ -37,7 +37,7 @@ This page is currently under (perpetual) construction
 
 Publications
 -------------
-Morrow, A., Shankar, V, Petersohn, D., Yosef, N., Recht, B., Joseph, A.D (2016, December). Convolutional Kitchen Sinks for Transcription Factor Binding Site Prediction. NIPS Workshop on Machine Learning in Computational Biology [pdf](/genomics_kitchensinks.pdf)
+Morrow, A., Shankar, V, Petersohn, D., Yosef, N., Recht, B., Joseph, A.D (2016, December). Convolutional Kitchen Sinks for Transcription Factor Binding Site Prediction. NIPS Workshop on Machine Learning in Computational Biology [pdf](/genomics_kitchensinks.pdf) [talk](/genomics_kitchensinks_talk.pdf)
 
 Shankar, V., Zhang, J., Chen, J., Dinh, C., Clements, M., & Zakhor, A. (2016, February). Approximate Subgraph Isomorphism for Image Localization. *International Symposium on Electronic Imaging*
 
